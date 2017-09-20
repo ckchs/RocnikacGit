@@ -1,0 +1,17 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Photon\Photon Unity Networking\Demos\DemoChat\ChatGui.cs">
+    <Files>
+      <File FileName="Assets\Photon\Photon Unity Networking\Demos\DemoChat\ChannelSelector.cs" Line="1" Column="1" />
+      <File FileName="Assets\Photon\Photon Unity Networking\Demos\DemoChat\ChatAppIdCheckerUI.cs" Line="1" Column="1" />
+      <File FileName="Assets\Photon\Photon Unity Networking\Demos\DemoChat\FriendItem.cs" Line="1" Column="1" />
+      <File FileName="Assets\Photon\Photon Unity Networking\Demos\DemoChat\ChatGui.cs" Line="133" Column="121" />
+      <File FileName="Assets\Photon\Photon Unity Networking\Demos\DemoChat\IgnoreUiRaycastWhenInactive.cs" Line="1" Column="1" />
+      <File FileName="Assets\Photon\Photon Unity Networking\Demos\DemoChat\NamePickGui.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

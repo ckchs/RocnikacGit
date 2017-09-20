@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Photon/Photon Unity Networking/Demos/DemoChat/DemoChat-Scene.unity
+  isLoaded: 1
+  isActive: 1
